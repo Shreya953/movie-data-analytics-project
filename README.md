@@ -13,7 +13,7 @@ This project analyzes movie data using Python and Pandas to extract insights abo
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ## Key Insights
 - Identified top-performing genres
